@@ -1,25 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar'; 
+import Newss from './components/Newss';
+import Newssitem from './components/Newssitem';
+import React, { Component } from 'react'
+export class App extends Component {
+// c8cb0988283346ecbd50e581028f0f3b
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  render() {
+    return (
+      <div>
+        <Navbar />
+        <Newss />
+      </div>
+    )
+  }
 }
 
-export default App;
+export default App
+
+

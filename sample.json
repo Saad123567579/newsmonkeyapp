@@ -1,0 +1,203 @@
+{
+  "status": "ok",
+  "totalResults": 632,
+  "articles": [
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ryan Hogg",
+      "title": "You can now fix those embarrassing mistakes by editing your WhatsApp messages and iMessages – here's how",
+      "description": "Here's how to fix your text messages. WhatsApp now lets users edit their messages, but you may not guess how. iMessage doesn't make it obvious either.",
+      "url": "https://www.businessinsider.com/how-to-fix-whatsapp-imessage-mistakes-2023-6",
+      "urlToImage": "https://i.insider.com/646c7460a739dc001808fba3?width=1200&format=jpeg",
+      "publishedAt": "2023-06-16T09:44:21Z",
+      "content": "You've only got 15 minutes to edit your WhatsApp messages.Getty Images\r\n<ul>\n<li>WhatsApp finally rolled out a long-awaited edit button to help you fix those embarrassing mistakes.</li>\n<li>You only … [+2566 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Albert Sanchis",
+      "title": "John Deere ha privado a los agricultores de su \"derecho a reparar\" sus tractores. Solución: hackearlos",
+      "description": "Los agricultores y los grandes fabricantes de tractores, John Deere a la cabeza, llevan años hundidos en una batalla por algo aparentemente banal: reparar su maquinaria. El derecho de cualquier persona a reparar, modificar o simplemente acceder a sus propias …",
+      "url": "https://www.xataka.com/magnet/john-deere-ha-privado-a-agricultores-su-derecho-a-reparar-sus-tractores-solucion-hackearlos-1",
+      "urlToImage": "https://i.blogs.es/0fad3a/derecho-a-reparar-john-deere/840_560.jpeg",
+      "publishedAt": "2023-06-16T08:05:20Z",
+      "content": "Los agricultores y los grandes fabricantes de tractores, John Deere a la cabeza, llevan años hundidos en una batalla por algo aparentemente banal: reparar su maquinaria. El derecho de cualquier perso… [+4951 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Jose García",
+      "title": "Es oficial: la Unión Europea aprueba una ley para que las baterías de los móviles se puedan sacar y sustituir \"fácilmente\"",
+      "description": "Tal y como estaba previsto, la Unión Europea ha aprobado unas nuevas normas relacionadas con el diseño, la producción y la gestión de residuos de las baterías vendidas en la Unión Europea. Después de hacer obligatorio el puerto USB-C para los nuevos smartphon…",
+      "url": "https://www.xataka.com/moviles/oficial-union-europea-aprueba-ley-baterias-moviles-se-puedan-sacar-sustituir-facilmente",
+      "urlToImage": "https://i.blogs.es/ffaac6/pexels-tyler-lastovich-719399/840_560.jpeg",
+      "publishedAt": "2023-06-16T08:35:13Z",
+      "content": "Tal y como estaba previsto, la Unión Europea ha aprobado unas nuevas normas relacionadas con el diseño, la producción y la gestión de residuos de las baterías vendidas en la Unión Europea. Después de… [+3788 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kurt Knutsson, CyberGuy Report",
+      "title": "How to go paperless by turning your phone into a portable scanner",
+      "description": "Scanning your documents only requires your phone. Kurt \"CyberGuy' Knutsson explains how to scan all your important documents on your iOS Notes app or Google Drive.",
+      "url": "https://www.foxnews.com/tech/paperless-turning-phone-portable-scanner",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/1-MAN-SMILES-AT-PHONE.jpg",
+      "publishedAt": "2023-06-16T10:00:17Z",
+      "content": "Did you know your iPhone or Android camera can be turned into a handheld digital scanner? It's easy, free, and super convenient. You can save scans to your phone and, even better, turn them into PDFs… [+5858 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Trevor Mogg",
+      "title": "Google parent Alphabet tells workers to be wary of AI chatbots",
+      "description": "Alphabet has told its employees not to enter confidential information into chatbots, including Bard, which was created by Alphabet-owned Google.",
+      "url": "https://www.digitaltrends.com/computing/google-parent-alphabet-tells-workers-to-be-wary-of-chatbots/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/02/chatgpt-versus-google-bard.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-06-16T06:55:13Z",
+      "content": "Alphabet has told its employees not to enter confidential information into Bard, the generative-AI chatbot created and operated by Google, which Alphabet owns.\r\nThe company’s warning also extends to … [+2325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "Safari: So nutzen Sie künftig Web-Apps unter macOS 14",
+      "description": "Apple unterstützt mit Safari 17 demnächst nativ Web-Apps. Die lassen sich dann direkt ins Betriebssystem integrieren.",
+      "url": "https://www.heise.de/news/Safari-So-nutzt-man-kuenftig-Web-Apps-unter-macOS-14-9188466.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/5/6/0/5/8/safari-og-twitter_2x-e3437636c5ebaa10-f5b1dce5bbb37e7a.png",
+      "publishedAt": "2023-06-16T09:14:00Z",
+      "content": "Web-Apps sind Websites, die sich wie normale Programme ausführen lassen. Auf dem Mac können sie schon seit Jahren in Browsern wie Firefox oder Chrome generiert werden, zudem gibt es spezielle Program… [+2318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Sponsored Post",
+      "title": "Avoid roaming costs using your iPhone: eSim Holafly  [Video]",
+      "description": "When Apple announced the all-new iPhone 14 lineup, they decided to completely remove the physical sim card tray from iPhones sold in the US. Many customers, especially international travelers, were upset with this because when they would travel to another cou…",
+      "url": "https://9to5mac.com/2023/06/15/avoid-roaming-costs-using-your-iphone-esim-holafly-video/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/HTG-1200X675-5-3.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-06-16T00:20:34Z",
+      "content": "When Apple announced the all-new iPhone 14 lineup, they decided to completely remove the physical sim card tray from iPhones sold in the US. Many customers, especially international travelers, were u… [+3841 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "Reddit’s CEO really wants you to know that he doesn’t care about your feedback",
+      "description": "Reddit CEO Steve Huffman is continuing his damage control\r\n tour, this time via a new interview with The Verge. Despite a large number of subreddits still offline in protest over Reddit’s changes to third-party apps, Huffman is once again doubling down on tha…",
+      "url": "https://9to5mac.com/2023/06/15/reddit-blackout-third-party-apps/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/reddit-garbage-fire.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-06-16T04:09:51Z",
+      "content": "Reddit CEO Steve Huffman is continuing his damage control\r\n tour, this time via a new interview with The Verge. Despite a large number of subreddits still offline in protest over Reddit’s changes to … [+11219 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Apple shows off iconic new Battersea store in London",
+      "description": "Following the opening of the new Apple Battersea in England's capital, Apple has released official photographs showing crowds and the first shoppers in the store.(Source: Apple)Apple opened its new London store on Thursday, at the heart of the newly revamped …",
+      "url": "https://appleinsider.com/articles/23/06/16/apple-shows-off-iconic-new-battersea-store-in-london",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/54965-111487-000-lead-Battersea-official-xl.jpg",
+      "publishedAt": "2023-06-16T10:08:29Z",
+      "content": "(Source: Apple)\r\nFollowing the opening of the new Apple Battersea in England's capital, Apple has released official photographs showing crowds and the first shoppers in the store.\r\nApple opened its n… [+1037 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elespanol.com"
+      },
+      "author": "Jacinto Araque",
+      "title": "¿Podría el Senado usar móviles Android en vez de iPhone? Las alternativas al teléfono de Apple",
+      "description": "Examinamos las exigencias técnicas del Senado para la renovación de sus smartphones para la que han comprado 350 unidades del iPhone 14.",
+      "url": "https://www.elespanol.com/elandroidelibre/moviles-android/20230616/podria-senado-moviles-android-alternativas-telefono-apple/771672878_0.html",
+      "urlToImage": "https://s1.eestatic.com/2019/03/04/eldigitalcastillalamancha/castilla_la_mancha_380724445_233987250_1200x630.jpg",
+      "publishedAt": "2023-06-16T00:56:50Z",
+      "content": "El Senado ha decidido renovar los móviles de los miembros de la cámara, y el elegido ha sido el iPhone 14 presentado en septiembre, el gama alta más reciente de Apple. Las exigencias son muy específi… [+5924 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elespanol.com"
+      },
+      "author": "Manuel Ramírez",
+      "title": "Sustituir la batería de tu móvil será fácil: la Unión Europea forzará este gran cambio a los fabricantes",
+      "description": "El Parlamento Europeo ha votado a favor para que los usuarios alarguen el tiempo de vida de su dispositivo con un acceso sencillo a la batería.",
+      "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20230616/sustituir-bateria-union-europea-forzara-cambio-fabricantes/771922808_0.html",
+      "urlToImage": "https://s1.eestatic.com/2023/06/16/elandroidelibre/noticias-y-novedades/771932851_233988843_1200x630.jpg",
+      "publishedAt": "2023-06-16T07:10:37Z",
+      "content": "Ya en diciembre del año pasado se dio un gran paso para cambiar las baterías y así prolongar la vida del móvil; tal como se hacía hace años cuando el usuario simplemente levantaba una pestaña y tenía… [+2903 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "はらいさん",
+      "title": "Apple TV＋で配信予定の『モンスターヴァース』シリーズ、Vision Proでは3Dで楽しめるかも",
+      "description": "Apple TV +で配信予定の『モンスターヴァース』シリーズ新作は3Dで撮影される。今後はよりVision Pro向けのコンテンツが拡充されそう。",
+      "url": "https://www.gizmodo.jp/2023/06/new-apple-tv-shot-in-3d-format.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/06/13/012022_Apple_Lands_Series_Legendarys_Monsterverse_Big_Image_01.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2023-06-16T06:00:00Z",
+      "content": "Monarch: Legacy of Monsters coming to Apple Vision Pro. \r\nBased on conversations this week with people familiar with its production, I can confirm that the upcoming @Monsterverse series has been shoo… [+145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "そうこ",
+      "title": "発表から10日。冷静になってアップルVision Proの体験を考えてみた",
+      "description": "Photo:DanAckerman3D映像の強烈さ。WWDC2023で発表されたAppleの空間コンピュータVisionPro。基調講演のデモ映像や、発表会直後の実機展示、そして30分の体験時間を経て、すぐに第一印象レビューを多々公開してきました。が、発表からおよそ10日が経過し、いま再びあの怒涛の体験を思い出しながら考察してみた米GizmodoのAckerman記者。発表直後は興奮してましたから",
+      "url": "https://www.gizmodo.jp/2023/06/after-10-days-apple-vision-pro.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/06/16/230616nowithink.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2023-06-16T10:00:00Z",
+      "content": "3D\r\nWWDC2023AppleVision Pro30\r\n10GizmodoAckermanVision ProAckerman\r\nAppleVision Pro4K\r\nWWDCVision Pro\r\n1995/199912313D\r\nVision Pro3DVision Pro\r\nVision Pro\r\nMetaMeta\r\nVision Pro3DMeta QuestHoloLensPSV… [+265 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Sebastian Danila",
+      "title": "Ce deal XL sur l’iPhone 14 est une tuerie, c’est maintenant qu’il faut craquer ",
+      "description": "L'iPhone 14 vous intéresse ? Bonne nouvelle, puisque Amazon l'affiche aujourd'hui à un prix vraiment très attractif. Un bon plan qui tombe à pic pour les personnes qui attendaient une promotion sur le dernier iPhone d'Apple.\nCe deal XL sur l’iPhone 14 est une…",
+      "url": "https://www.journaldugeek.com/bon-plan/ce-deal-xl-sur-liphone-14-est-une-tuerie-cest-le-bon-moment-pour-craquer/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/09/iphone14-apple.jpg",
+      "publishedAt": "2023-06-16T09:46:02Z",
+      "content": "L'iPhone 14 vous intéresse ? Bonne nouvelle, puisque Amazon l'affiche aujourd'hui à un prix vraiment très attractif. Un bon plan qui tombe à pic pour les personnes qui attendaient une promotion sur l… [+5548 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Miguel López",
+      "title": "Apple se mete en el bolsillo a Henry Cavill y Dua Lipa: el estreno de ‘Argylle’ seguirá el rastro de ‘Napoleon’ y ‘Killers of the Flower Moon’",
+      "description": "Apple comienza a sentirse cómoda con sus acuerdos hechos en Hollywood. Sabíamos que 'Killers of the Flower Moon', la nueva película de Martin Scorsese y exclusiva en Apple TV+, tendrá un estreno en cines como parte de esos acuerdos. Ahora serán dos películas …",
+      "url": "https://www.applesfera.com/servicios-apple/apple-se-mete-bolsillo-a-henry-cavill-dua-lipa-estreno-argylle-seguira-rastro-napoleon-killers-of-the-flower-moon",
+      "urlToImage": "https://i.blogs.es/0b39db/captura-de-pantalla-2023-06-16-a-las-10.09.49/840_560.jpeg",
+      "publishedAt": "2023-06-16T08:14:26Z",
+      "content": "Apple comienza a sentirse cómoda con sus acuerdos hechos en Hollywood. Sabíamos que 'Killers of the Flower Moon', la nueva película de Martin Scorsese y exclusiva en Apple TV+, tendrá un estreno en c… [+1506 chars]"
+    }
+  ]
+}
+
+
