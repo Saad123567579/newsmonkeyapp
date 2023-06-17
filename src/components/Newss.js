@@ -10,7 +10,7 @@ function Newss(props) {
   const [loading, setloading] = useState(false);
   const [status,setstatus] = useState("good");
   const [URL, setURL] = useState(
-    `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=c8cb0988283346ecbd50e581028f0f3b&pageSize=${value}&page=${page}&q=${search}`
+    `https://newsapi.org/v2/everything?apiKey=c8cb0988283346ecbd50e581028f0f3b&pageSize=${value}&page=${page}&q=${search}+pakistan`
   );
   
   const [total, setTotal] = useState(0);
@@ -24,6 +24,7 @@ function Newss(props) {
       setloading(false);
       setArticles(art.articles);
       setTotal(art.totalResults);
+      document.title = search;
     };
 
     fetchData();
@@ -31,7 +32,7 @@ function Newss(props) {
 
   useEffect(() => {
     setURL(
-      `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=c8cb0988283346ecbd50e581028f0f3b&page=${page}&pageSize=${value}&q=${search}`
+      `https://newsapi.org/v2/everything?apiKey=c8cb0988283346ecbd50e581028f0f3b&page=${page}&pageSize=${value}&q=${search}+pakistan`
     );
   }, [page, value,search]);
 
@@ -66,12 +67,14 @@ function Newss(props) {
         <h2 style={{ textAlign: 'center' }}>News Monkey - Top Headlines - {total} Results Found For {search.toUpperCase()}</h2>
         <div className="row">
           {articles.map((article) => (
-            <div className="col-md-3" key={article.url}>
+            <div className="col-md-3 " key={article.url}>
               <Newssitem
                 title={article.title}
                 author={article.author}
                 description={article.description}
                 urlToImage={article.urlToImage}
+                publishedAt={article.publishedAt}
+                url={article.url}
               />
             </div>
           ))}
