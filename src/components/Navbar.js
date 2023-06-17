@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar(props) {
   return (
     <>
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light" style={{position:"sticky"}}>
   <div className="container-fluid">
     <a className="navbar-brand" href="#">News Monkey</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,10 +42,7 @@ function Navbar(props) {
         
         
       </ul>
-      <div className="form-check form-switch mx-4">
-  <input className="form-check-input" type="checkbox" id="flexSwitchCheckChecked" unchecked onChange={props.handleDarkMode} />
-  <label className="form-check-label" htmlFor="flexSwitchCheckChecked">Enable Dark Mode </label>
-</div>
+      
       <form className="d-flex">
         <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
         <button className="btn btn-outline-success"  onClick={props.handleSearch}>Search</button>
